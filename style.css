@@ -1,0 +1,50 @@
+body {
+    background-color: #3c1a3f;
+    font-family: arial;
+}
+
+.navbar {
+    background-color: #a526b1;
+    color: white;
+}
+
+#app {
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 350px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+input {
+    height: 30px;
+    width: 250px;
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid #a526b1;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+
+button {
+    height: 30px;
+    width: 250px;
+    display: block;
+    margin-bottom: 30px;
+    color: white;
+    font-weight: 0.1;
+    background-color: #a526b1;
+    border:0;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #772d7e;
+}
